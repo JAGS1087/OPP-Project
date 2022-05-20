@@ -1,3 +1,14 @@
+/*
+╔══════════════════════════════════════════════════════════╗
+║                       Credits                            ║
+║  Author/Main Dev:                                        ║
+║  Helper/Secandary Dev :                                  ║
+║  Grahics:                                                ║
+║                                                          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+*/
+
 // Include 
 
 include <iostream>
@@ -6,6 +17,7 @@ include <iostream>
 #include <cstdlib>
 #include <cstring>
 #include <iomanip>
+#include <math.h>
 #include <string>
 #include <thread>
 */
@@ -21,11 +33,14 @@ using namespace std::chrono;
 // User defined Variables
 
 /*
-const int Max = 3;
-const double e =1;
-enum position { IF, OF, C, P, DH };
+const [variable] [name] = [num];
 
 struct [name] 
+{
+  
+}
+
+class [name] 
 {
   
 }
